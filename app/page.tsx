@@ -5,8 +5,6 @@ import React from "react";
 
 interface Props {}
 
-//bg-gradient-to-br from-stone-500  bg-background
-
 import Image from "next/image";
 
 export default function Home() {
